@@ -1,2 +1,2 @@
-# my-new-repo-for-coursera
+# my-new-dir
 new space for studying projects
